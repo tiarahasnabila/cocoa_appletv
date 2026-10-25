@@ -9,7 +9,7 @@ android {
 
     defaultConfig {
         applicationId = "com.coocaatv.applelauncher"
-        minSdk = 34
+        minSdk = 24
         targetSdk = 34
         versionCode = 1
         versionName = "1.0"
@@ -33,5 +33,4 @@ dependencies {
     implementation("androidx.tv:tv-foundation:1.0.0-alpha10")
     implementation("androidx.tv:tv-material:1.0.0-alpha10")
     // Library untuk jadwal sholat
-    implementation("com.batoolapps.adhan:adhan:2.2.2")
-}
+    implementation("com.batoolapps.adhan:adhan:1.2.1")}
