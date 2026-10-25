@@ -34,3 +34,4 @@ dependencies {
     implementation("androidx.tv:tv-material:1.0.0-alpha10")
     // Library untuk jadwal sholat
     implementation("com.batoulapps.adhan:adhan:1.2.1")
+}
